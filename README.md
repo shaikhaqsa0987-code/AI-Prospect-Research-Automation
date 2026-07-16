@@ -10,12 +10,14 @@ AI-generated company summaries
 Structured lead data storage in Google Sheets
 Duplicate detection and data validation
 Scalable workflow with minimal manual effort
+
 🛠️ Tech Stack
 n8n – Workflow Automation
 OpenAI – AI-powered research and summarization
 Google Sheets – Lead database
 HTTP Request APIs – Data enrichment
 JSON – Data processing
+
 📌 Workflow
 Receive company name or website as input.
 Research the company using AI and web sources.
@@ -29,12 +31,14 @@ Decision Makers (if available)
 Generate an AI summary.
 Store structured data in Google Sheets.
 Prevent duplicate entries and maintain clean data.
+
 💡 Use Cases
 B2B Lead Generation
 Sales Prospecting
 Market Research
 Business Development
 CRM Data Enrichment
+
 📈 Benefits
 Reduces manual research time by up to 90%
 Improves lead data quality
